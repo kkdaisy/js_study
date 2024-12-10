@@ -1,1 +1,3 @@
-const title = document.getElementById()
+const title = document.querySelector(".hello h1");
+
+title.innerText = "jello"
